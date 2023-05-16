@@ -257,7 +257,7 @@ input {
   border: none;
 }
 .note .textarea {
-  background-color: var(--color-white);
+  background-color: #2f5f7a1a;
   border: none;
   padding: 16px 12px;
   width: 100%;
